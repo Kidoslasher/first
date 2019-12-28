@@ -12,12 +12,18 @@
 }
  
 .sidebar {
-  text-allign: center;
+  text-align: center;
   background-color: #808080;
   border: 3px solid black;
+  position: fixed;
+  top: 70px;
+  left: 0;
+  width: 200px;
 }
 
 .content {
   text-allign: center;
   background-color: #98ff98;
+  margin-top: 70px;
+  margin-left: 200px;
 }
