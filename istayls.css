@@ -2,13 +2,13 @@
 
 .header {
   text-align: center;
-  font-family: 'Raleway', sans-serif;
+  font-family: Arial;
   background-color: rgb(125, 125, 125);
   border: 3px solid black;
   position: fixed;
   top: 0;
   width: 100%;
-  min-height: 70px;
+  height: 70px;
 }
  
 .sidebar {
@@ -16,7 +16,7 @@
   background-color: #808080;
   border: 3px solid black;
   position: fixed;
-  top: 70px;
+  top: 76px;
   left: 0;
   width: 200px;
 }
@@ -24,6 +24,6 @@
 .content {
   text-align: center;
   background-color: #98ff98;
-  margin-top: 70px;
+  margin-top: 76px;
   margin-left: 200px;
 }
